@@ -1,3 +1,3 @@
 <?php 
 
-require_once 'public/index.php';
+echo "<script>  window.location= 'public/index.php' </script> ";
